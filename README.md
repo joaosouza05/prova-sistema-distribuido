@@ -1,1 +1,1 @@
-# prova-sistemas-distribuido
+# prova-sistemas-distribuidos
